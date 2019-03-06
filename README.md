@@ -10,4 +10,7 @@ The first column is the "label" , The rest of the columns contain the pixel-valu
 ## كن جزءا 
 ### draw with us :smirk:
 ```bash
-node app.js
+
+$ git clone https://github.com/151ali/arabicletterMNIST.git
+$ cd arabicletterMNIST
+$ node app.js
